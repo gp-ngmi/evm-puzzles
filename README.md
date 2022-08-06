@@ -4,6 +4,8 @@ For the puzzle #7 and #8, I need the help of https://hackernoon.com/evm-puzzles-
 
 # Branch more-evm-puzzle
 
+Thanks to https://github.com/daltyboy11/more-evm-puzzles and https://cheethas.github.io/More-EVM-Puzzles/ . I struggle a lot this time (#2,#7,#8). Finally I was able to understand all the puzzle. More especially the opcode CREATE.
+
 # EVM puzzles
 
 A collection of EVM puzzles. Each puzzle consists on sending a successful transaction to a contract. The bytecode of the contract is provided, and you need to fill the transaction data that won't revert the execution.
